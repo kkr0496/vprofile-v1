@@ -1,7 +1,7 @@
 ## Prerequisites for project...02020
 - JDK 1.8 or later..
 - Maven 3 or later
-- MySQL 5.6 or later
+- MySQL 5.6 or later00
 
 ## Technologies 
 - Spring MVC
